@@ -1,3 +1,8 @@
+### Enalaces de mi tarea
+* Classroom: https://classroom.github.com/classrooms/149103963-ull-mfp-aet-2324-alu0101039183
+* Asignación creada en GitHub Classroom: https://classroom.github.com/classrooms/149103963-ull-mfp-aet-2324-alu0101039183/assignments/microbit-joana
+* Organización: https://github.com/orgs/ull-mfp-aet-2324-alu0101039183/repositories
+
 
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
